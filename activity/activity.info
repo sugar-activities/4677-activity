@@ -1,0 +1,10 @@
+[Activity]
+name = ParticipAccion
+activity_version = 2
+host_version = 1
+service_name = colombiagames.sugar.participaccion
+bundle_id = colombiagames.sugar.participaccion
+icon = AppIcon
+show_launcher = yes
+class = LaunchFromSugar.Launcher
+exec = sugar-activity LaunchFromSugar.Launcher
